@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\advent.js"
+            "program": "${workspaceFolder}\\advent.spec.js"
         },
         {
             "type": "node",
