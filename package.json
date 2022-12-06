@@ -1,0 +1,14 @@
+{
+  "name": "testharness",
+  "version": "1.0.0",
+  "description": "advent calendar tests",
+  "main": "advent.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joe Warwick",
+  "license": "ISC",
+  "dependencies": {
+    "jest-cli": "^29.3.1"
+  }
+}
